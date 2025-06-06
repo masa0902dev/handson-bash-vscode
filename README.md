@@ -1,5 +1,6 @@
 # コード例 (研究室のためのターミナルとエディタの環境構築: bash, VScode)
 
+[研究室のためのターミナルとエディタの開発環境構築: bash, VScode](https://zenn.dev/masa0902dev/articles/editor-terminal-vscode-git-bash)
 
 こちらの記事内で書いた，簡単な粒子シミュレーションのコードです．  
 「コードは適切にファイル分割しよう」「main.pyにコードを全部書くのはやめよう」という意図のコード例になっています．
